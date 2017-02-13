@@ -1,0 +1,15 @@
+Здравствуйте, Николай!
+
+Я представляю компанию itservices.in.ua. Нас заинтересовало ваше резюме и мы бы хотели предложить вам вакансию PHP/JS разработчика. 
+Если вам это интересно, то предлагаем выполнить тестовые задания (оба или по крайней мере по PHP).
+Напишите, пожалуйста, готовы ли вы взяться и если да, то сколько примерно времени это займет. В качестве результата мы ожидаем код и краткое описание (время, которое потребовалось на выполнение; сложности и проблемы если таковые будут).
+
+PHP
+On the one bank of the river is a family - father, mother, son and daughter. The family wants to get to the other bank of the river. They found a fisherman with a boat who agreed to borrow a boat to them. Family should get to another bank of the river and return the boat back to a fisherman. Boat can accommodate one adult person or two children.
+Solve this task using php5, utilize OOP, each object should be a class instance. Program should read a configuration from an ini file. It should be possible to change number of adults and/or children to any other number. Program should write a log file with results of its work where anyone could check how people cross the river and how many iterations passed.
+
+Javascript
+Create a table 10x10 (10 columns and 10 rows). Fill table cells with some texts. Place a form on the page with text input and checkbox. Text input should be used to find text in the table. Matched text should be highlighted. Checkbox should be used as a switcher to display or not table rows where text was not found.
+Solve this task using jQuery. Utilize OOP.
+
+C уважением, Ксения Маршалковская

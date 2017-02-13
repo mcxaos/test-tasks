@@ -1,0 +1,6 @@
+AddDefaultCharset Off
+Options +FollowSymLinks
+RewriteEngine On
+
+RewriteRule ^employes/([0-9]*)/?$ /index.php?category=employes&page=$1&%{QUERY_STRING}
+RewriteRule ^department/([0-9]*)/?$ /index.php?category=department&id=$1&%{QUERY_STRING}
